@@ -5,7 +5,7 @@
 A fully interactive Power BI dashboard analyzing survey data from 630 data professionals worldwide. 
 Built as a hands-on tutorial project following Alex the Analyst's YouTube course.
 
-[image alt] () 
+[image alt](
 
 ## 🎯 Project Overview
 This dashboard explores trends in the data industry: salaries, job roles, programming languages, 
