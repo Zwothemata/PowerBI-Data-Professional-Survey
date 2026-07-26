@@ -1,6 +1,6 @@
 # PowerBI-Data-Professional-Survey
 
-# 📊 Data Professional Survey Breakdown - Power BI Dashboard
+
 
 A fully interactive Power BI dashboard analyzing survey data from 630 data professionals worldwide. 
 Built as a hands-on tutorial project following Alex the Analyst's YouTube course.
@@ -51,7 +51,7 @@ I'm a Data Analyst in training with experience in Python, SQL, Excel, and Power 
 Currently completing Women Techsters Bootcamp and Google Data Analytics Professional Certificate.
 Open to Data Analysis internships and remote roles.
 
-**Connect with me:** [https://www.linkedin.com/in/zwothe-matamela-9927122a5] | [Email]
+**Connect with me:** [https://www.linkedin.com/in/zwothe-matamela-9927122a5] 
 
 ---
 *Built with commercial impact in mind - turning raw survey data into decisions.* 
