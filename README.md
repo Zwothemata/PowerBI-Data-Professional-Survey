@@ -47,9 +47,8 @@ work/life balance, and difficulty breaking into the field.
 3. Click "Refresh" to interact with all filters
 
 ## 📌 About Me
-I'm a Data Analyst in training with experience in Python, SQL, Excel, and Power BI. 
-Currently completing Women Techsters Bootcamp and Google Data Analytics Professional Certificate.
-Open to Data Analysis internships and remote roles.
+I'm a Data Analyst in training with experience in Python, SQL, Excel, and Power BI. With Google Data Analytics Professional Certificate, Currently completing Women Techsters Data Analysis Bootcamp.
+Open to Data Analysis internships, graduate roles and remote roles.
 
 **Connect with me:** [https://www.linkedin.com/in/zwothe-matamela-9927122a5] 
 
