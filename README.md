@@ -51,7 +51,7 @@ I'm a Data Analyst in training with experience in Python, SQL, Excel, and Power 
 Currently completing Women Techsters Bootcamp and Google Data Analytics Professional Certificate.
 Open to Data Analysis internships and remote roles.
 
-**Connect with me:** [LinkedIn] | [Email]
+**Connect with me:** [https://www.linkedin.com/in/zwothe-matamela-9927122a5] | [Email]
 
 ---
 *Built with commercial impact in mind - turning raw survey data into decisions.* 
