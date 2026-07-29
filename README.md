@@ -5,7 +5,7 @@
 A fully interactive Power BI dashboard analyzing survey data from 630 data professionals worldwide. 
 Built as a hands-on tutorial project following Alex the Analyst's YouTube course.
 
-! [image Alt] (https://github.com/Zwothemata/PowerBI-Data-Professional-Survey/blob/d3aaeea3986e6a84e07b27ba23c08ac4f4b76673/Screenshot%20(323).png)
+![picture]( https://github.com/Zwothemata/PowerBI-Data-Professional-Survey/blob/d3aaeea3986e6a84e07b27ba23c08ac4f4b76673/Screenshot%20(323).png)
 
 ## 🎯 Project Overview
 This dashboard explores trends in the data industry: salaries, job roles, programming languages, 
